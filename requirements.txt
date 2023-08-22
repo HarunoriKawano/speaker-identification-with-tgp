@@ -1,0 +1,9 @@
+tqdm==4.65.0
+pandas==2.0.2
+matplotlib==3.7.1
+scikit-learn==1.2.2
+numpy==1.24.3
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio

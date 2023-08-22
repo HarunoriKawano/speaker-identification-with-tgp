@@ -1,0 +1,2 @@
+from speaker_identification.config import Config
+from speaker_identification.speaker_identification import SpeakerIdentificationModel
