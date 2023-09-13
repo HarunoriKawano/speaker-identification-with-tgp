@@ -1,0 +1,22 @@
+{
+  "mel_filter_size": 80,
+  "sampling_rate": 16000,
+  "win_time": 0.025,
+  "stride_time": 0.01,
+  "n_fft": 2048,
+  "fixed_time": 15,
+  "hidden_size": 512,
+  "intermediate_size": 2048,
+  "num_attention_heads": 8,
+  "num_hidden_layers": 4,
+  "max_length": 374,
+  "embedding_size": 512,
+  "pooling_type": "tgp",
+  "pooling_hidden_size": 512,
+  "filter_size": 512,
+  "pooling_num_heads": 8,
+  "factor_size": 256,
+  "num_speakers": 1251,
+  "with_aam_softmax": true,
+  "dropout_probability": 0.1
+}
